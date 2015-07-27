@@ -1,0 +1,29 @@
+# This file exists so you can easily regenerate your project.
+#
+# Unfortunatelly cookiecutter can't use this right away so
+# you have to copy this file to ~/.cookiecutterrc
+
+default_context:
+
+    c_extension_optional:      'no'
+    c_extension_support:       'no'
+    codecov:                   'yes'
+    command_line_interface:    'plain'
+    coveralls:                 'no'
+    distribution_name:         'prompt6'
+    email:                     'contact@ionelmc.ro'
+    full_name:                 'Ionel Cristian Maries'
+    github_username:           'westurner'
+    landscape:                 'no'
+    package_name:              'prompt6'
+    project_name:              'prompt6'
+    project_short_description: 'prompt6 is a key/value CLI API in Python.'
+    release_date:              '2015-07-27'
+    repo_name:                 'prompt6'
+    scrutinizer:               'no'
+    sphinx_theme:              'readthedocs'
+    test_matrix_configurator:  'no'
+    test_runner:               'pytest'
+    version:                   '0.1.0'
+    website:                   'http://blog.ionelmc.ro'
+    year:                      '2015'
