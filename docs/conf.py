@@ -22,7 +22,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 project = u'prompt6'
 year = u'2015'
-author = u'Ionel Cristian Maries'
+author = u'Wes Turner'
 copyright = '{0}, {1}'.format(year, author)
 version = release = u'0.1.0'
 # on_rtd is whether we are on readthedocs.org

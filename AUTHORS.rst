@@ -2,4 +2,4 @@
 Authors
 =======
 
-* Ionel Cristian Maries - http://blog.ionelmc.ro
+* Wes Turner - https://westurner.org/
