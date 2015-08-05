@@ -15,7 +15,7 @@ if IS_PYTHON2:
         return obj.iteritems()
     iteritems = iteritems2
 elif IS_PYTHON3:
-    import stringio as StringIO
+    import io as StringIO
 
     def iteritems3(obj):
         return obj.items()
