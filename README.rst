@@ -8,7 +8,7 @@ prompt6
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor|
+      - | |travis|
         | |codecov|
     * - package
       - |version| |downloads|
@@ -20,11 +20,6 @@ prompt6
 .. |travis| image:: http://img.shields.io/travis/westurner/prompt6/master.svg?style=flat&label=Travis
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/westurner/prompt6
-
-.. |appveyor| image:: https://img.shields.io/appveyor/ci/westurner/prompt6/master.svg?style=flat&label=AppVeyor
-    :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/westurner/prompt6
-
 
 .. |codecov| image:: http://img.shields.io/codecov/c/github/westurner/prompt6/master.svg?style=flat&label=Codecov
     :alt: Coverage Status
